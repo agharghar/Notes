@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "29c8fbb6803e4826",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f07c910eafbdcc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13a32ce1b7ef3323",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reverse Shell/Reverse TTY SHELL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6addceb571e325da",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae9d0907e2bbb1b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46cb0a08b2c2bf94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c1a5707c2152bce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8fc0c6e6bb2571c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d9a3e004877d539d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f50832b8518e89a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca510aecfb037389",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reverse Shell/Reverse TTY SHELL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9c218ecacca34d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reverse Shell/Reverse TTY SHELL.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f08b5452bff5bb5f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1443d3a48acf3134",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reverse Shell/Reverse TTY SHELL.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "13a32ce1b7ef3323",
+  "lastOpenFiles": [
+    "Reverse Shell/Web Shell.md",
+    "Database/Mysql.md",
+    "Database/MSSQL.md",
+    "Web/SQLI.md",
+    "Web/LFI.md",
+    "Linux/Services/SMB.md",
+    "Passwords Attacks/Pass the Hash.md",
+    "Web/Discovery.md",
+    "Reverse Shell/Reverse TTY SHELL.md",
+    "Reverse Shell/Restricted SHELL.md"
+  ]
+}
